@@ -1,3 +1,5 @@
 - fahrenheit to celsius
 - meters to centimeters
 - hour to minutes
+- degrees to radians
+
